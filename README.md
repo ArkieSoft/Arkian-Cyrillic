@@ -12,3 +12,19 @@ For the macOS keybaord layout, simply download the [layout](https://codeload.git
 # What is this layout, dummy?
 
 Here are the varying layers that are required for the many characters.
+
+This is without shift or option held down (First Layer).
+
+![First Layer](https://github.com/ArkieSoft/Arkian-Cyrillic/blob/main/images/Layer-0.png?raw=true)
+
+This is with shift down and option not held down (Capitalizes Layer 1)
+
+![Second Layer](https://github.com/ArkieSoft/Arkian-Cyrillic/blob/main/images/Layer-1.png?raw=true)
+
+This is with shift not pressed and option pressed (The "Second Layer")
+
+![Third Layer](https://github.com/ArkieSoft/Arkian-Cyrillic/blob/main/images/Layer-2.png?raw=true)
+
+This is with both shift and option held down (The "Second Layer" is capitalized)
+
+![Fourth Layer](https://github.com/ArkieSoft/Arkian-Cyrillic/blob/main/images/Layer-4.png?raw=true)
